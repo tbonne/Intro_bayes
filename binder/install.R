@@ -1,0 +1,6 @@
+install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("tidyverse", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("brms", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("daggity",repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("ggdag",repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("ggridges",repos = "https://cloud.r-project.org/", dependencies=TRUE)
