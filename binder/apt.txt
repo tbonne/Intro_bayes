@@ -5,3 +5,4 @@ libgdal-dev
 libproj-dev
 libgeos-dev
 libgsl-dev
+libudunits2-dev
