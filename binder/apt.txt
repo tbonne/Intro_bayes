@@ -4,3 +4,4 @@ libv8-dev
 libgdal-dev
 libproj-dev
 libgeos-dev
+libgsl-dev
