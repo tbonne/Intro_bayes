@@ -1,1 +1,3 @@
 htop
+libcurl4-openssl-dev
+libv8-dev
